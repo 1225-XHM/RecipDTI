@@ -7,6 +7,8 @@ RecipDTI is a deep learning framework for drug-target interaction (DTI) predicti
 ### Requirements
 
 - Python 3.9
+- PyTorch 2.1.1
+- CUDA 12.1
 - RDKit 2025.9.2
 
 ### Main Dependencies
